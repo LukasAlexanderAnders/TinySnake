@@ -1,0 +1,22 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Persönliche Highscores (werden vom Spiel automatisch angelegt)
+Your_Highscore.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editor
+.idea/
+.vscode/
+
+# Systemdateien
+Thumbs.db
+desktop.ini
